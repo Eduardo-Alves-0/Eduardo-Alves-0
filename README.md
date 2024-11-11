@@ -22,7 +22,7 @@ Pretendo me aprofundar nas seguintes tecnologias:
 
 ### Projetos
 
-Aqui estão alguns projetos em que já desenvolvi:
+Aqui estão alguns projetos que já desenvolvi:
 
 - **Calculadora de IMC** - Uma aplicação simples para calcular o Índice de Massa Corporal (IMC), desenvolvida em JavaScript.
 - **Jogo de Adivinhação** - Um jogo interativo de adivinhação de números, onde o usuário tenta adivinhar um número aleatório entre 1 e 100.
