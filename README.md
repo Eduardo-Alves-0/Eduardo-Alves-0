@@ -3,9 +3,7 @@
 **`Desenvolvedor Front-end`**
 
 Me chamo Eduardo Alves, tenho 20 anos, sou natural de São Lourenço da Mata - PE, Cursando ensino superio em Análise e desenvolvimento de sistemas na UNINASSAU.
-
 Sou um estudante dedicado e autodidata, com foco em desenvolvimento **Front-end**. Tenho facilidade em aprender, organização no dia a dia de estudos e gosto de resolver problemas com lógica e clareza.  
-
 Estou constantemente buscando evoluir minhas habilidades técnicas, e no momento estudo JavaScript, com planos de avançar para React e TypeScript
 
 ### Contato
@@ -22,9 +20,6 @@ Estou constantemente buscando evoluir minhas habilidades técnicas, e no momento
   </a>
 </p>
 
-
-
-
 ### Linguagens e Tecnologias
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" />
@@ -34,7 +29,6 @@ Estou constantemente buscando evoluir minhas habilidades técnicas, e no momento
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30px" />
 </p>
-
 
 ### Estatisticas
 <div style="display: flex; justify-content: space-between;">
