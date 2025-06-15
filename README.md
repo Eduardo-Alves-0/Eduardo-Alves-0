@@ -11,16 +11,17 @@ Estou constantemente buscando evoluir minhas habilidades técnicas, e no momento
 ### Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/eduardo-alves-637625319/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-alves-637625319/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduardu0220@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduardu0220@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/5581992215812" target="_blank">
+  <a href="https://wa.me/5581992215812" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
+
 
 
 
