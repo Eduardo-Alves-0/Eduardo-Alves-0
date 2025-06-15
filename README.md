@@ -1,12 +1,18 @@
-## Eduardo Alves
+# 👨‍💻 Eduardo Alves
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Front-End em formação`**
 
-Me chamo Eduardo Alves, tenho 20 anos, sou natural de São Lourenço da Mata - PE, Cursando ensino superio em Análise e desenvolvimento de sistemas na UNINASSAU.
-Sou um estudante dedicado e autodidata, com foco em desenvolvimento **Front-end**. Tenho facilidade em aprender, organização no dia a dia de estudos e gosto de resolver problemas com lógica e clareza.  
-Estou constantemente buscando evoluir minhas habilidades técnicas, e no momento estudo JavaScript, com planos de avançar para React e TypeScript
+Olá! Sou Eduardo Alves, tenho 20 anos e sou natural de São Lourenço da Mata - PE.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na UNINASSAU.
 
-### Contato
+Sou dedicado, autodidata e apaixonado por resolver problemas com lógica e clareza.  
+Tenho facilidade de aprendizado, sou organizado nos estudos e estou sempre em busca de evolução constante na área de tecnologia.  
+
+Atualmente estou focado em **JavaScript**, com planos de avançar para **React** e **TypeScript**.
+
+---
+
+### 📫 Contato
 
 <p>
   <a href="https://www.linkedin.com/in/eduardo-alves-637625319/" target="_blank" rel="noopener noreferrer">
@@ -20,27 +26,47 @@ Estou constantemente buscando evoluir minhas habilidades técnicas, e no momento
   </a>
 </p>
 
-### Linguagens e Tecnologias
+---
+
+### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35px" />
 </p>
 
-### Estatisticas
-<div style="display: flex; justify-content: space-between;">
-  <img 
-    alt="GitHub Stats" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=Eduardo-Alves-0&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Alves-0&theme=transparent&locale=pt-br&layout=compact&custom_title=Tecnologias" 
-  />
-</div>
+---
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Alves-0&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Alves-0&theme=transparent&locale=pt-br&layout=compact&custom_title=Tecnologias&card_width=300" alt="Top Languages"/>
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+- [💻 Portfólio](https://github.com/Eduardo-Alves-0/Portfolio.git)
+ portfólio sendo desenvolvido com React para mostrar meus projetos e habilidades, praticando componentes, gerenciamento de estado e organização do front-end de forma clara e funcional.
+
+- [📝 ToDo List](https://github.com/Eduardo-Alves-0/ToDo-List)  
+  Aplicação de lista de tarefas desenvolvida com **React** para praticar estados, componentes e estruturação de projetos front-end.
+
+---
+
+### 📚 Certificações e Palestras
+
+- 🎤 **Palestrante:** Introdução à Engenharia de Software – UNINASSAU (2024)
+- 🏅 Certificado de React – Accenture 
+
+---
+
+> 💬 “Desenvolver não é só codar, é pensar, planejar e impactar vidas.”
+
+⭐ Obrigado por visitar meu perfil! Me acompanhe para ver novos projetos!
