@@ -68,21 +68,6 @@
   </tr>
 </table>
 
-
-  <!-- Projeto 3 -->
-  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
-    <h4>✅ To-Do List</h4>
-    <p style="font-size: 13px;">
-      Aplicativo de lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript, permitindo adicionar, editar e remover tarefas.
-    </p>
-    <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
-    </a>
-  </div>
-
-</div>
-
-
 <br>
 <br>
       
