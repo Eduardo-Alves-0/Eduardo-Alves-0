@@ -107,16 +107,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
     </a>
   </div>
 </div>
-
-<style>
-.badge img {
-  transition: 0.3s; /* animação suave */
-  vertical-align: middle; /* garante alinhamento na mesma altura */
-}
-.badge img:hover {
-  filter: brightness(1.3); /* clareia ao passar o mouse */
-}
-</style>
   <br>
   <br>
 
