@@ -30,27 +30,44 @@
     <h3>Principais Projetos Criados</h3>  
     <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <!-- Projeto 1 -->
-  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
-    <h4>📚 Sistema de Biblioteca</h4>
-    <p style="font-size: 13px;">
-      Um sistema simples para gerenciamento de livros, usuários e empréstimos, desenvolvido em Java com foco em Programação Orientada a Objetos.
-    </p>
-    <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
-    </a>
-  </div>
+<table>
+  <tr>
+    <td>
+      <h4>📚 Sistema de Biblioteca</h4>
+      <p style="font-size: 13px;">
+        Um sistema simples para gerenciamento de livros, usuários e empréstimos, desenvolvido em Java com foco em POO.
+      </p>
+      <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
+      </a>
+    </td>
+    <td>
+      <h4>💳 Conta Bancária</h4>
+      <p style="font-size: 13px;">
+        Projeto que simula operações bancárias básicas, como depósito, saque e consulta de saldo, utilizando lógica de programação em Java.
+      </p>
+      <a href="https://github.com/Eduardo-Alves-0/Conta-Bancaria.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Conta-Bancaria&theme=github_dark" alt="Conta Bancária">
+      </a>
+    </td>
+  </tr>
 
-  <!-- Projeto 2 -->
-  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
-    <h4>💳 Conta Bancária</h4>
-    <p style="font-size: 13px;">
-      Projeto que simula operações bancárias básicas, como depósito, saque e consulta de saldo, utilizando lógica de programação em Java.
-    </p>
-    <a href="https://github.com/Eduardo-Alves-0/Conta-Bancaria.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Conta-Bancaria&theme=github_dark" alt="Conta Bancária">
-    </a>
-  </div>
+  <tr>
+    <td>
+      <h4>✅ To-Do List</h4>
+      <p style="font-size: 13px;">
+        Aplicativo de lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript, permitindo adicionar, editar e remover tarefas.
+      </p>
+      <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
+      </a>
+    </td>
+    <td>
+      <!-- Você pode adicionar outro projeto aqui -->
+    </td>
+  </tr>
+</table>
+
 
   <!-- Projeto 3 -->
   <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
