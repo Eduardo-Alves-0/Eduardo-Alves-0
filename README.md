@@ -30,8 +30,10 @@
     <h3>Principais Projetos Criados</h3>  
     <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
   <!-- Projeto 1 -->
-  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
+  <div style="flex: 0 0 49%; background-color:#1F2937; padding:10px; border-radius:10px; box-sizing: border-box;">
     <h4>📚 Sistema de Biblioteca</h4>
     <p style="font-size: 13px;">
       Um sistema simples para gerenciamento de livros, usuários e empréstimos, desenvolvido em Java com foco em Programação Orientada a Objetos.
@@ -42,7 +44,7 @@
   </div>
 
   <!-- Projeto 2 -->
-  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
+  <div style="flex: 0 0 49%; background-color:#1F2937; padding:10px; border-radius:10px; box-sizing: border-box;">
     <h4>💳 Conta Bancária</h4>
     <p style="font-size: 13px;">
       Projeto que simula operações bancárias básicas, como depósito, saque e consulta de saldo, utilizando lógica de programação em Java.
@@ -53,7 +55,7 @@
   </div>
 
   <!-- Projeto 3 -->
-  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
+  <div style="flex: 0 0 49%; background-color:#1F2937; padding:10px; border-radius:10px; box-sizing: border-box;">
     <h4>✅ To-Do List</h4>
     <p style="font-size: 13px;">
       Aplicativo de lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript, permitindo adicionar, editar e remover tarefas.
@@ -62,6 +64,20 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
     </a>
   </div>
+
+  <!-- Projeto 4 (exemplo adicional) -->
+  <div style="flex: 0 0 49%; background-color:#1F2937; padding:10px; border-radius:10px; box-sizing: border-box;">
+    <h4>🌐 Outro Projeto</h4>
+    <p style="font-size: 13px;">
+      Descrição de outro projeto qualquer.
+    </p>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=OutroProjeto&theme=github_dark" alt="Outro Projeto">
+    </a>
+  </div>
+
+</div>
+
 
 </div>
 
