@@ -93,18 +93,18 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <div align="center">
   <b style="color: #38BDF8; font-size: 1.4em;">Entre em contato comigo:</b>
-  <br><br>
-  <a href="mailto:eduardu0220@gmail.com" target="_blank" class="badge">
-    <img width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
-  </a>
   
-  <a href="https://www.instagram.com/eduardu0883?igsh=MWY0bG94YWtyNmVqNQ==" target="_blank" class="badge">
-    <img width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/eduardo-alves-637625319/" target="_blank" class="badge">
-    <img width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
-  </a>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 10px;">
+    <a href="mailto:eduardu0220@gmail.com" target="_blank" class="badge">
+      <img width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
+    </a>
+    <a href="https://www.instagram.com/eduardu0883?igsh=MWY0bG94YWtyNmVqNQ==" target="_blank" class="badge">
+      <img width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/eduardo-alves-637625319/" target="_blank" class="badge">
+      <img width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+    </a>
+  </div>
 </div>
 
 
