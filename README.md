@@ -91,9 +91,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <br>
 
 
-<b style="color: #38BDF8">Entre em contato comigo:</b>
 <div style="text-align: center; margin-top: 20px;">
-  <b>Entre em contato comigo:</b>
+  <b style="color: #38BDF8; font-size: 1.2em;">Entre em contato comigo:</b>
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 10px;">
     <a href="mailto:eduardu0220@gmail.com" target="_blank" class="badge">
