@@ -20,15 +20,11 @@
 <br>
       
 <div align="center">
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <img alt="GitHub Stats Summary" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo-Alves-0&theme=github_dark&hide_border=true&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB&line_height=27"/>
   
   <img alt="Most Commit Language" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo-Alves-0&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB&line_height=27"/>
-</div>
-
-
 </div>
 
 <img align="center" alt="Profile Details" 
