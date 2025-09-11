@@ -11,11 +11,61 @@
 </samp>
 </div>
 
+
+
 <div align="center" width="100%">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=38BDF892&width=435&lines=Desenvolvedor+FullStack;Explorador+do+mundo+da+programa%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo;Buscando+sempre+melhorar+minhas+habilidades;Explorando+Node.js+e+TypeScript;Trabalhando+com+JavaScript+e+suas+infinitas+possibilidades;Transformando+ideias+em+c%C3%B3digo;Programar+%C3%A9+transformar+criatividade+em+realidade" alt="Typing SVG" /></a>
 
+
+<br>
+<br>
 </div>
-      
+  <div align="center">
+    <h3>Sobre mim</h3>
+    <p>
+      Olá! Eu sou <b>Eduardo Alves</b>, um desenvolvedor FullStack apaixonado por tecnologia e inovação.  
+      Estou sempre aprendendo novas linguagens e frameworks, explorando novas ferramentas e transformando ideias em código.  
+      Atualmente, trabalho com <b>JavaScript, TypeScript, Node.js e Git</b>, e adoro criar projetos que unem criatividade e tecnologia.
+    </p>
+    <h3>Principais Projetos Criados</h3>  
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- Projeto 1 -->
+  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
+    <h4>📚 Sistema de Biblioteca</h4>
+    <p style="font-size: 13px;">
+      Um sistema simples para gerenciamento de livros, usuários e empréstimos, desenvolvido em Java com foco em Programação Orientada a Objetos.
+    </p>
+    <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
+    </a>
+  </div>
+
+  <!-- Projeto 2 -->
+  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
+    <h4>💳 Conta Bancária</h4>
+    <p style="font-size: 13px;">
+      Projeto que simula operações bancárias básicas, como depósito, saque e consulta de saldo, utilizando lógica de programação em Java.
+    </p>
+    <a href="https://github.com/Eduardo-Alves-0/Conta-Bancaria.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Conta-Bancaria&theme=github_dark" alt="Conta Bancária">
+    </a>
+  </div>
+
+  <!-- Projeto 3 -->
+  <div style="flex: 0 0 48%; background-color:#1F2937; padding:10px; border-radius:10px;">
+    <h4>✅ To-Do List</h4>
+    <p style="font-size: 13px;">
+      Aplicativo de lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript, permitindo adicionar, editar e remover tarefas.
+    </p>
+    <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
+    </a>
+  </div>
+
+</div>
+
+
 <br>
 <br>
       
@@ -41,46 +91,8 @@
 <br>
 <br>
 
-<details align="center">
-  <summary>
-    <b style="color: #38BDF8">Mais informações</b>
-  </summary>
 
-  <br>
 
-  <!-- Seção Sobre Mim -->
-  <div align="center">
-    <h3>Sobre mim</h3>
-    <p>
-      Olá! Eu sou <b>Eduardo Alves</b>, um desenvolvedor FullStack apaixonado por tecnologia e inovação.  
-      Estou sempre aprendendo novas linguagens e frameworks, explorando novas ferramentas e transformando ideias em código.  
-      Atualmente, trabalho com <b>JavaScript, TypeScript, Node.js e Git</b>, e adoro criar projetos que unem criatividade e tecnologia.
-    </p>
-    <h3>Principais Projetos Criados</h3>  
-    <h4>📚 Sistema de Biblioteca</h4>
-    <p style="font-size: 13px;">
-      Um sistema simples para gerenciamento de livros, usuários e empréstimos, desenvolvido em Java com foco em Programação Orientada a Objetos.
-    </p>
-    <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
-    </a>
-    <h4>💳 Conta Bancária</h4>
-    <p style="font-size: 13px;">
-      Projeto que simula operações bancárias básicas, como depósito, saque e consulta de saldo, utilizando lógica de programação em Java.
-    </p>
-    <a href="https://github.com/Eduardo-Alves-0/Conta-Bancaria.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Conta-Bancaria&theme=github_dark" alt="Conta Bancária">
-    </a>
-    <h4>✅ To-Do List</h4>
-    <p style="font-size: 13px;">
-      Aplicativo de lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript, permitindo adicionar, editar e remover tarefas.
-    </p>
-    <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
-    </a>
-  </div>
-</details>
-<br>
 
 ##
 
