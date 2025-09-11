@@ -99,7 +99,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
       <img width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/eduardo-alves-637625319/" target="_blank" class="badge">
-      <img width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+      <img width="82" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
     </a>
   </div>
 </div>
