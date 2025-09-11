@@ -119,8 +119,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 </style>
   <br>
   <br>
-</dividir>
-</detalhes>
 
 ##
 
