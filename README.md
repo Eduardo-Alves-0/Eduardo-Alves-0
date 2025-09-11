@@ -29,6 +29,7 @@
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo-Alves-0&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB&line_height=27"/>
 
 </div>
+
 <img align="center" alt="Profile Details" 
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Alves-0&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB"/>
 
