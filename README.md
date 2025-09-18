@@ -96,12 +96,15 @@
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img alt="GitHub Stats Summary" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo-Alves-0&theme=github_dark&hide_border=true&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB&line_height=27"/>
-  <img alt="Most Commit Language" 
-       <img alt="Top Languages" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Alves-0&layout=compact&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&hide_border=true&langs_count=8"/> 
+  <img alt="Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Alves-0&layout=compact&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&hide_border=true&langs_count=8"/>
+</div>
+<br>
+<div align="center">
+  <img alt="Profile Details" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Alves-0&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB"/>
 </div>
-
+</div>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
