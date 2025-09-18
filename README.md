@@ -29,7 +29,8 @@
     </p>
     <h3>Principais Projetos Criados</h3>  
     <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
+<h3>Principais Projetos Criados</h3>  
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 <table>
   <tr>
     <td>
@@ -63,22 +64,18 @@
       </a>
     </td>
     <td>
-      <tr>
-  <td>
-    <h4>🗄️ BD Sistema Biblioteca</h4>
-    <p style="font-size: 13px;">
-      Projeto de banco de dados MySQL que simula um sistema de biblioteca. Inclui criação e organização de tabelas relacionais, definição de chaves primárias, inserção de dados, consultas avançadas com JOIN, GROUP BY e ORDER BY, além de geração de relatórios e filtros usando SQL padrão (DDL e DML).
-    </p>
-    <a href="https://github.com/Eduardo-Alves-0/BD-Sistema_biblioteca">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=BD-Sistema_biblioteca&theme=github_dark" alt="BD Sistema Biblioteca">
-    </a>
-  </td>
-</tr>
-
-      <!-- Você pode adicionar outro projeto aqui -->
+      <h4>🗄️ BD Sistema Biblioteca</h4>
+      <p style="font-size: 13px;">
+        Banco de dados MySQL simulando um sistema de biblioteca. Inclui criação de tabelas relacionais, definição de chaves primárias, inserção de dados, consultas avançadas com JOIN, GROUP BY e ORDER BY, além de relatórios e filtros usando SQL padrão (DDL e DML).
+      </p>
+      <a href="https://github.com/Eduardo-Alves-0/BD-Sistema_biblioteca">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=BD-Sistema_biblioteca&theme=github_dark" alt="BD Sistema Biblioteca">
+      </a>
     </td>
   </tr>
 </table>
+</div>
+
 
 <br>
 <br>
