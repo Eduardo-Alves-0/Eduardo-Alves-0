@@ -100,10 +100,6 @@
        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo-Alves-0&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB&line_height=27"/>
   <img align="center" alt="Profile Details" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Alves-0&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB"/>
-
-
-  <img alt="Most Used Languages" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Alves-0&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&hide_border=true&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=6&hide=html,css"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
