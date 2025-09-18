@@ -91,7 +91,7 @@
 
 <br>
 <br>
-      
+
 <div align="center">
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img alt="GitHub Stats Summary" 
@@ -101,7 +101,6 @@
   <img align="center" alt="Profile Details" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Alves-0&theme=github_dark&bg_color=4B5563&title_color=38BDF8&text_color=38BDF8&icon_color=2563EB"/>
 </div>
-
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
