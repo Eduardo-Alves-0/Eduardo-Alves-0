@@ -51,7 +51,6 @@
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="50%">
       <h4>✅ To-Do List</h4>
@@ -65,7 +64,7 @@
     <td align="center" width="50%">
       <h4>🗄️ BD Sistema Biblioteca</h4>
       <p style="font-size: 13px;">
-        Banco de dados MySQL simulando um sistema de biblioteca. Inclui criação de tabelas relacionais, definição de chaves primárias, inserção de dados, consultas avançadas com JOIN, GROUP BY e ORDER BY, além de relatórios e filtros usando SQL padrão (DDL e DML).
+        Banco de dados MySQL para sistema de biblioteca com tabelas relacionais, chaves primárias e consultas avançadas usando JOIN, GROUP BY e ORDER BY.
       </p>
       <a href="https://github.com/Eduardo-Alves-0/BD-Sistema_biblioteca">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=BD-Sistema_biblioteca&theme=github_dark" alt="BD Sistema Biblioteca">
@@ -73,7 +72,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <br>
