@@ -27,10 +27,9 @@
       Estou sempre aprendendo novas linguagens e frameworks, explorando novas ferramentas e transformando ideias em código.  
       Atualmente, trabalho com <b>JavaScript, TypeScript, Node.js e Git</b>, e adoro criar projetos que unem criatividade e tecnologia.
     </p>
+    <br>
     <h3>Principais Projetos Criados</h3>  
     <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-<h3>Principais Projetos Criados</h3>  
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 <table>
   <tr>
     <td>
