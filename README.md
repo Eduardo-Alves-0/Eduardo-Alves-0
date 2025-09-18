@@ -28,51 +28,53 @@
       Atualmente, trabalho com <b>JavaScript, TypeScript, Node.js e Git</b>, e adoro criar projetos que unem criatividade e tecnologia.
     </p>
     <br>
-    <h3>Principais Projetos Criados</h3>  
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-<table>
-  <tr>
-    <td>
-      <h4>📚 Sistema de Biblioteca</h4>
-      <p style="font-size: 13px;">
-        Um sistema simples para gerenciamento de livros, usuários e empréstimos, desenvolvido em Java com foco em POO.
-      </p>
-      <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
-      </a>
-    </td>
-    <td>
-      <h4>💳 Conta Bancária</h4>
-      <p style="font-size: 13px;">
-        Projeto que simula operações bancárias básicas, como depósito, saque e consulta de saldo, utilizando lógica de programação em Java.
-      </p>
-      <a href="https://github.com/Eduardo-Alves-0/Conta-Bancaria.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Conta-Bancaria&theme=github_dark" alt="Conta Bancária">
-      </a>
-    </td>
-  </tr>
+    <h3>Principais Projetos Criados</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <tr>
-    <td>
-      <h4>✅ To-Do List</h4>
-      <p style="font-size: 13px;">
-        Aplicativo de lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript, permitindo adicionar, editar e remover tarefas.
-      </p>
-      <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
-      </a>
-    </td>
-    <td>
-      <h4>🗄️ BD Sistema Biblioteca</h4>
-      <p style="font-size: 13px;">
-        Banco de dados MySQL simulando um sistema de biblioteca. Inclui criação de tabelas relacionais, definição de chaves primárias, inserção de dados, consultas avançadas com JOIN, GROUP BY e ORDER BY, além de relatórios e filtros usando SQL padrão (DDL e DML).
-      </p>
-      <a href="https://github.com/Eduardo-Alves-0/BD-Sistema_biblioteca">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=BD-Sistema_biblioteca&theme=github_dark" alt="BD Sistema Biblioteca">
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- Projeto 1 -->
+  <div style="width: 45%; min-width: 300px; text-align: center;">
+    <h4>📚 Sistema de Biblioteca</h4>
+    <p style="font-size: 13px;">
+      Um sistema simples para gerenciamento de livros, usuários e empréstimos, desenvolvido em Java com foco em POO.
+    </p>
+    <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
+    </a>
+  </div>
+
+  <!-- Projeto 2 -->
+  <div style="width: 45%; min-width: 300px; text-align: center;">
+    <h4>💳 Conta Bancária</h4>
+    <p style="font-size: 13px;">
+      Projeto que simula operações bancárias básicas, como depósito, saque e consulta de saldo, utilizando lógica de programação em Java.
+    </p>
+    <a href="https://github.com/Eduardo-Alves-0/Conta-Bancaria.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Conta-Bancaria&theme=github_dark" alt="Conta Bancária">
+    </a>
+  </div>
+
+  <!-- Projeto 3 -->
+  <div style="width: 45%; min-width: 300px; text-align: center;">
+    <h4>✅ To-Do List</h4>
+    <p style="font-size: 13px;">
+      Aplicativo de lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript, permitindo adicionar, editar e remover tarefas.
+    </p>
+    <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
+    </a>
+  </div>
+
+  <!-- Projeto 4 -->
+  <div style="width: 45%; min-width: 300px; text-align: center;">
+    <h4>🗄️ BD Sistema Biblioteca</h4>
+    <p style="font-size: 13px;">
+      Banco de dados MySQL simulando um sistema de biblioteca. Inclui criação de tabelas relacionais, definição de chaves primárias, inserção de dados, consultas avançadas com JOIN, GROUP BY e ORDER BY, além de relatórios e filtros usando SQL padrão (DDL e DML).
+    </p>
+    <a href="https://github.com/Eduardo-Alves-0/BD-Sistema_biblioteca">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=BD-Sistema_biblioteca&theme=github_dark" alt="BD Sistema Biblioteca">
+    </a>
+  </div>
+
 </div>
 
 
