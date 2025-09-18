@@ -29,46 +29,61 @@
     </p>
     <br>
     <h3>Principais Projetos Criados</h3>
-
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h4>📚 Sistema de Biblioteca</h4>
-      <p style="font-size: 13px;">
-        Um sistema simples para gerenciamento de livros, usuários e empréstimos, desenvolvido em Java com foco em POO.
-      </p>
-      <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
-      </a>
+    <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
+      <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h4 style="margin: 0 0 10px 0;">📚 Sistema de Biblioteca</h4>
+          <p style="font-size: 13px; height: 50px; margin: 0; display: flex; align-items: center; justify-content: center; text-align: center;">
+            Sistema completo para gerenciamento de livros, usuários e empréstimos em Java com POO.
+          </p>
+        </div>
+        <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
+        </a>
+      </div>
     </td>
-    <td align="center" width="50%">
-      <h4>💳 Conta Bancária</h4>
-      <p style="font-size: 13px;">
-        Projeto que simula operações bancárias básicas, como depósito, saque e consulta de saldo, utilizando lógica de programação em Java.
-      </p>
-      <a href="https://github.com/Eduardo-Alves-0/Conta-Bancaria.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Conta-Bancaria&theme=github_dark" alt="Conta Bancária">
-      </a>
+    <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
+      <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h4 style="margin: 0 0 10px 0;">💳 Conta Bancária</h4>
+          <p style="font-size: 13px; height: 50px; margin: 0; display: flex; align-items: center; justify-content: center; text-align: center;">
+            Simulação de operações bancárias como depósito, saque e consulta de saldo em Java.
+          </p>
+        </div>
+        <a href="https://github.com/Eduardo-Alves-0/Conta-Bancaria.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Conta-Bancaria&theme=github_dark" alt="Conta Bancária">
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h4>✅ To-Do List</h4>
-      <p style="font-size: 13px;">
-        Aplicativo de lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript, permitindo adicionar, editar e remover tarefas.
-      </p>
-      <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
-      </a>
+    <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
+      <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h4 style="margin: 0 0 10px 0;">✅ To-Do List</h4>
+          <p style="font-size: 13px; height: 50px; margin: 0; display: flex; align-items: center; justify-content: center; text-align: center;">
+            Aplicativo de lista de tarefas com typeScript para gerenciar atividades.
+          </p>
+        </div>
+        <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
+        </a>
+      </div>
     </td>
-    <td align="center" width="50%">
-      <h4>🗄️ BD Sistema Biblioteca</h4>
-      <p style="font-size: 13px;">
-        Banco de dados MySQL para sistema de biblioteca com tabelas relacionais, chaves primárias e consultas avançadas usando JOIN, GROUP BY e ORDER BY.
-      </p>
-      <a href="https://github.com/Eduardo-Alves-0/BD-Sistema_biblioteca">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=BD-Sistema_biblioteca&theme=github_dark" alt="BD Sistema Biblioteca">
-      </a>
+    <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
+      <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h4 style="margin: 0 0 10px 0;">🗄️ BD Sistema Biblioteca</h4>
+          <p style="font-size: 13px; height: 50px; margin: 0; display: flex; align-items: center; justify-content: center; text-align: center;">
+            Banco de dados MySQL com tabelas relacionais, consultas JOIN e relatórios SQL.
+          </p>
+        </div>
+        <a href="https://github.com/Eduardo-Alves-0/BD-Sistema_biblioteca">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=BD-Sistema_biblioteca&theme=github_dark" alt="BD Sistema Biblioteca">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
