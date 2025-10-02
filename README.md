@@ -115,7 +115,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <img width="40" src="https://typeorm.io/images/logo.svg" alt="TypeORM" />
+![TypeORM](https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1,f_auto/v1/icons/logos/typeorm-cu31gajopxrlcowqr0hsn.png)
 
 </div>
 
