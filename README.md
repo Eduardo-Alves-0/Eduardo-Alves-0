@@ -34,13 +34,13 @@
     <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
       <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
         <div>
-          <h4 style="margin: 0 0 10px 0;">📚 Sistema de Biblioteca</h4>
+          <h4 style="margin: 0 0 10px 0;">🚀 Pixel Nest</h4>
           <p style="font-size: 13px; height: 50px; margin: 0; display: flex; align-items: center; justify-content: center; text-align: center;">
-            Sistema completo para gerenciamento de livros, usuários e empréstimos em Java com POO.
+            Backend desenvolvido em NestJS com TypeORM, MySQL e autenticação JWT.
           </p>
         </div>
-        <a href="https://github.com/Eduardo-Alves-0/SistemaBiblioteca.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=SistemaBiblioteca&theme=github_dark" alt="Sistema de Biblioteca">
+        <a href="https://github.com/Eduardo-Alves-0/Pixel-Nest">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=Pixel-Nest&theme=github_dark" alt="Pixel Nest">
         </a>
       </div>
     </td>
@@ -62,13 +62,13 @@
     <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
       <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
         <div>
-          <h4 style="margin: 0 0 10px 0;">✅ To-Do List</h4>
+          <h4 style="margin: 0 0 10px 0;">📝 Blog Pessoal</h4>
           <p style="font-size: 13px; height: 50px; margin: 0; display: flex; align-items: center; justify-content: center; text-align: center;">
-            Aplicativo de lista de tarefas com typeScript para gerenciar atividades.
+            Projeto fullstack com NestJS, TypeORM e MySQL para gerenciamento de postagens.
           </p>
         </div>
-        <a href="https://github.com/Eduardo-Alves-0/To-Do-List.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=To-Do-List&theme=github_dark" alt="To-Do List">
+        <a href="https://github.com/Eduardo-Alves-0/blog-pessoal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Alves-0&repo=blog-pessoal&theme=github_dark" alt="Blog Pessoal">
         </a>
       </div>
     </td>
