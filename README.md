@@ -36,7 +36,7 @@
         <div>
           <h4 style="margin: 0 0 10px 0;">🚀 Pixel Nest</h4>
           <p style="font-size: 13px; height: 50px; margin: 0; display: flex; align-items: center; justify-content: center; text-align: center;">
-            Backend desenvolvido em NestJS com TypeORM, MySQL e autenticação JWT.
+            Backend em NestJS com TypeORM e MySQL para gerenciamento de dados e APIs.
           </p>
         </div>
         <a href="https://github.com/Eduardo-Alves-0/Pixel-Nest">
@@ -64,7 +64,7 @@
         <div>
           <h4 style="margin: 0 0 10px 0;">📝 Blog Pessoal</h4>
           <p style="font-size: 13px; height: 50px; margin: 0; display: flex; align-items: center; justify-content: center; text-align: center;">
-            Projeto fullstack com NestJS, TypeORM e MySQL para gerenciamento de postagens.
+            Projeto fullstack com autenticação JWT, segurança e gerenciamento de postagens.
           </p>
         </div>
         <a href="https://github.com/Eduardo-Alves-0/blog-pessoal">
@@ -87,6 +87,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <br>
