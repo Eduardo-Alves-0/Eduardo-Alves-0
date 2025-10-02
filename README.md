@@ -112,7 +112,6 @@
   <imagem largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <imagem largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   <imagem largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <imagem largura="40" fonte="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" />
 </dividir>
 
 
@@ -133,7 +132,7 @@
   <b estilo="tamanho da fonte: 1,4em;">Entre em contato amigo:</b>
   <br>
   <br>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 10px;">
+  <dividir estilo="exibir: flexível; justificar-conteúdo: centro; alinhar itens: centro; lacuna: 10px; margem superior: 10px;">
     <a href="mailto:eduardu0220@gmail.com" target="_blank" class="badge">
       <img width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
     </a>
