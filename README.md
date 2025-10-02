@@ -104,6 +104,8 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+    <img width="40" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" />
+  <img width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -111,8 +113,6 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" />
-  <img width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
 </div>
 
 
